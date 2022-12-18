@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(3, 40, 11);
+}
+
+body {
+    font-family: "Segoe UI", "Helvetica Neue";
+    font-weight: lighter;
+    font-size: large;
+    color: darkcyan;
+}
+
+a {
+    color: rgb(84, 244, 135);
+}
+
+.flex-justify-content-center {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+div {
+    font-family: "Segoe UI", "Helvetica Neue";
+    font-weight: lighter;
+    color: rgb(84, 244, 135);
+}
+
+table {
+    background-color: rgb(34, 194, 132);
+    color: rgb(11, 40, 137);
+}
+
+td {
+    color: rgb(6, 49, 49);
+}
+
+thead {
+    color: rgb(11, 40, 137);
+}
